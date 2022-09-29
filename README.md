@@ -2,19 +2,19 @@
 
 1 10 minute mail https://10-minutemail.com/
 
-2 10 min email https://email10min.com/
+2 temp mail https://tempmail.ink
 
 3 temp mail https://www.mailtemp.net/
 
-4 10 minute mail https://10minmailnet.com/
+4 temp mail https://tempmails.info
 
 5 10 min mail https://email10min.net/
 
 6 ten minutes mail https://tenminutesmail.net/
 
-7 https://10-minutemail.net
+7 10 min mail https://10-minutemail.net
 
-8 https://10-minutemail.org
+8  10 min mail  https://10-minutemail.org
 
 > 简单来说这还是造轮子，但是是因为我用别人轮子遇到了麻烦，一难调试二文档不全，虽然就几行配置，但是我是真的佩服就几行配置都难倒了我。跑起来了是跑起来了，但是工作是真的不正常。这里的阅后即焚目前来说是相对的，你需要手动清理。
 
